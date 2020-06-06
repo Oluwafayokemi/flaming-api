@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.4.5",
-    "apollo-server": "^2.6.1",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.6.1",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
