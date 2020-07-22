@@ -1,6 +1,10 @@
-export interface User {
-  name: string;
-  country: string;
-  state: string;
-  views: string;
+
+import { Document } from 'mongoose';
+
+export interface User extends Document {
+  readonly name: string;
+  readonly country: string;
+  readonly state: string;
+  readonly views: string;
 }
+

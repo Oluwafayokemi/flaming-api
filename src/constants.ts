@@ -1,0 +1,2 @@
+export const USER_MODEL = 'USER_MODEL'
+export const ATTENDANCE_MODEL = 'ATTENDANCE_MODEL'
